@@ -1,1 +1,1 @@
-# Guessing-the-number-in-c-
+# Guessing-the-number-in-c++
